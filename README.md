@@ -53,7 +53,9 @@ MERN-based application to track and visualize expenses with CRUD operations.
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahendharjillala&show_icons=true&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdineshkumarreddy&show_icons=true&theme=tokyonight)
+
 
 ---
 
